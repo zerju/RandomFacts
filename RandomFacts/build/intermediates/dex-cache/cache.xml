@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\pre-dexed\release\classes-dbda3ccf78a1cd785c613c76cabfe10b83953a87.jar" />
+    </item>
+    <item
+        jar="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\pre-dexed\release\classes-8fee8dac9671d5cad2651a1d26e6bc48a077abf7.jar" />
+    </item>
+    <item
+        jar="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\pre-dexed\release\classes-dcc618357587591de46d2fa4d6a65801624061bc.jar" />
+    </item>
+    <item
+        jar="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\MegaSync\AndroidStudioProjects\RandomFacts\app\build\intermediates\pre-dexed\release\classes-f3f482a374a4fbec3d04a0d862a42fcda12e981a.jar" />
+    </item>
+
+</items>

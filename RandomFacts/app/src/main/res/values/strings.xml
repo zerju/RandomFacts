@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Facts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fact">FactActivity</string>
+    <string name="title_activity_saved">SavedActivity</string>
+    <string name="title_activity_show_saved">ShowSavedActivity</string>
+    <string name="bottom_banner">ca-app-pub-2925746335468254/3027739526</string>
+</resources>

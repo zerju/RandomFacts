@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv"
+    android:textColor="#FFFFFF"
+    android:layout_width="fill_parent"
+    android:gravity="left"
+    android:layout_height="fill_parent"/><!-- From: file:/D:/Copy/AndroidStudioProjects/RandomFacts%20-%20Copy/app/src/main/res/layout/custom_textview.xml -->
